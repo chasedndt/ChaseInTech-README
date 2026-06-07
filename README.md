@@ -1,6 +1,6 @@
 # ChaseInTech
 
-AI Engineering • Trading Systems • Cybersecurity • Full-Stack 
+AI Engineering • Trading Systems • Cybersecurity 
 
 Building real-world systems across Technology & Science
 
