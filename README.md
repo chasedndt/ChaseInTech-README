@@ -1,35 +1,33 @@
 # ChaseInTech
 
-AI Engineering • Trading Systems • Cybersecurity • Full-Stack • Web2 / Web3
+AI Engineering • Trading Systems • Cybersecurity • Full-Stack 
 
-Building real-world systems across AI, automation, trading infrastructure, and software.
+Building real-world systems across Technology & Science
 
 ---
 
 ## 🚀 Currently Building
 
-- TradeSync — AI-powered trading infrastructure  
 - ChaseOS — Agentic operating system  
-- GeoMacro — Macro intelligence system  
-- GreyTheory — Cybersecurity research
 - StrikeZone Crypto — Trading infrastructure  
 
 ---
 
 ## 🧠 Engineering Pillars
 
-- AI Engineering & Agent Systems  
+- AI Engineering & Agentic Systems  
 - Trading Systems Development  
-- Cybersecurity & Security Research  
-- Full-Stack Development (Web2 / Web3)  
-- Automation & Infrastructure  
+- Cybersecurity Research  
+- Full-Stack Development  
 - System Design & Architecture  
 
 ---
 
 ## 🏗️ Additional Projects
 
-- HypeList — Full-stack analytics dashboard  
+- HypeList — Full-stack analytics dashboard
+- TradeSync — AI-powered trading infrastructure
+- GreyTheory — Cybersecurity research
 
 ---
 
@@ -39,8 +37,8 @@ Portfolio
 https://chaseintech.carrd.co
 
 Projects  
-https://chadeintechbuilds.carrd.co/
+https://chaseos.io/
 
 ---
 
-> Building in public • Real systems • Continuous execution
+> Building in public • Real systems 
