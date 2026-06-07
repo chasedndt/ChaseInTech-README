@@ -37,7 +37,7 @@ Portfolio
 https://chaseintech.carrd.co
 
 Projects  
-https://chaseos.io/
+https://chaseos.ai/
 
 ---
 
