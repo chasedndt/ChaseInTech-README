@@ -1,44 +1,8 @@
 # ChaseInTech
 
-AI Engineering • Trading Systems • Cybersecurity 
+This was the original ChaseInTech profile repository. GitHub only renders a profile README from a public repository whose name exactly matches the username, so the current profile gateway now lives at:
 
-Building real-world systems across Technology & Science
+- [chasedndt/chasedndt](https://github.com/chasedndt/chasedndt)
+- [ChaseInTech services and proof](https://chaseintech.com/?utm_source=github&utm_medium=legacy_repository&utm_campaign=proof_gateway)
 
----
-
-## 🚀 Currently Building
-
-- ChaseOS — Agentic operating system  
-- StrikeZone Crypto — Trading infrastructure  
-
----
-
-## 🧠 Engineering Pillars
-
-- AI Engineering & Agentic Systems  
-- Trading Systems Development  
-- Cybersecurity Research  
-- Full-Stack Development  
-- System Design & Architecture  
-
----
-
-## 🏗️ Additional Projects
-
-- HypeList — Full-stack analytics dashboard
-- TradeSync — AI-powered trading infrastructure
-- GreyTheory — Cybersecurity research
-
----
-
-## 🌐 Links
-
-Portfolio  
-https://chaseintech.carrd.co
-
-Projects  
-https://chaseos.ai/
-
----
-
-> Building in public • Real systems 
+This repository remains available as a redirect for older links. The Carrd-era positioning has been retired.
